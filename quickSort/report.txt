@@ -1,0 +1,14 @@
+Score: 100
+
+== junit ==
+edu.wit.cs.comp2350.grading.A3Grading#test00_SimpleQS: +5
+edu.wit.cs.comp2350.grading.A3Grading#test01_SmallQS: +15
+edu.wit.cs.comp2350.grading.A3Grading#test02_BigQS: +20
+edu.wit.cs.comp2350.grading.A3Grading#test03_StepsQS: +10
+edu.wit.cs.comp2350.grading.A3Grading#test04_RandQS: +19
+edu.wit.cs.comp2350.grading.A3Grading#test05_SimpleRQS: +5
+edu.wit.cs.comp2350.grading.A3Grading#test06_SmallRQS: +9
+edu.wit.cs.comp2350.grading.A3Grading#test07_BigRQS: +5
+edu.wit.cs.comp2350.grading.A3Grading#test08_StepsRQS: +5
+edu.wit.cs.comp2350.grading.A3Grading#test09_RandRQS: +5
+edu.wit.cs.comp2350.grading.A3Grading#test10_PublicMethods: +2
